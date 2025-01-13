@@ -22,10 +22,10 @@
  
 # JavaScript-Interview-Questions
   
-  * <a href="#JavaScript Questions">JavaScript Questions</a>
-  * <a href="#JavaScript program Questions">JavaScript program Questions</a>
+  * <a href="#JavaScript-Questions">JavaScript Questions</a>
+  * <a href="#JavaScript-program-Questions">JavaScript program Questions</a>
 
- ## JavaScript Questions
+ ## JavaScript-Questions
   
 1. What is the difference between 'Pass by Value' and 'Pass by Reference'?
 2. What is the difference between map and filter ?
@@ -86,7 +86,7 @@
 58. How does prototypal inheritance work?
 59. How do you handle errors in JavaScript?
  
- ## JavaScript program Questions
+ ## JavaScript-program-Questions
 
 1. Program to find longest word in a given sentence ?
 2. How to check whether a string is palindrome or not ?
