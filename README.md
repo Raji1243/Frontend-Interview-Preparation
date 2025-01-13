@@ -1,10 +1,10 @@
  # Frontend-Interview-Preparation
 
 1. <a href="#HTML-Interview-Questions">HTML-Interview-Questions</a>
-2. <a href="#javascript">JavaScript-Interview-Questions</a>
-3. <a href="#a11y">Accessibility(A11Y)-Interview-Questions</a>
-4. <a href="#reactjs">ReactJS-Interview-Questions</a>
-5. <a href="#rtk">ReduxToolKit-Interview-Questions</a>
+2. <a href="#JavaScript-Interview-Questions">JavaScript-Interview-Questions</a>
+3. <a href="#Accessibility(A11Y)-Interview-Questions">Accessibility(A11Y)-Interview-Questions</a>
+4. <a href="#ReactJS-Interview-Questions">ReactJS-Interview-Questions</a>
+5. <a href="#ReduxToolKit-Interview-Questions">ReduxToolKit-Interview-Questions</a>
 
 
 # HTML-Interview-Questions
