@@ -1,8 +1,13 @@
-# Frontend-Interview-Preparation
+ # Frontend-Interview-Preparation
 
-<details>
+1. <a href="#HTML-Interview-Questions">HTML-Interview-Questions</a>
+2. <a href="#javascript">JavaScript-Interview-Questions</a>
+3. <a href="#a11y">Accessibility(A11Y)-Interview-Questions</a>
+4. <a href="#reactjs">ReactJS-Interview-Questions</a>
+5. <a href="#rtk">ReduxToolKit-Interview-Questions</a>
 
-<summary>HTML-Interview-Questions</summary> 
+
+# HTML-Interview-Questions
 
 1. What is the difference between `id` and `class` attributes?
 2. How does the `doctype` declaration affect a webpage?
@@ -16,20 +21,19 @@
 10. How would you create an accessible custom tooltip using only HTML?
  
 
-</details>
+ 
 <details>
 
 <summary>JavaScript-Interview-Questions</summary>
 
-<details>
-<summary>JavaScript Questions</summary>
+ ## JavaScript Questions
   
-1. What is the difference between 'Pass by Value' and 'Pass by Reference'?
-2. What is the difference between map and filter ?
-3. What is the difference between map() and forEach() 
-4. What is the difference between Pure and Impure functions?
-5. What is the difference between for-in and for-of ?
-6. What are the differences between call(), apply() and bind() ?
+ - 1. What is the difference between 'Pass by Value' and 'Pass by Reference'?
+ - 2. What is the difference between map and filter ?
+ - 3. What is the difference between map() and forEach() 
+ - 4. What is the difference between Pure and Impure functions?
+ - 5. What is the difference between for-in and for-of ?
+ - 6. What are the differences between call(), apply() and bind() ?
 7. List out some key features of ES6 ?
 8. What’s the spread operator in javascript ?
 9. What is rest operator in javascript ?
@@ -82,10 +86,8 @@
 57. How would you implement a deep clone of an object without using libraries?
 58. How does prototypal inheritance work?
 59. How do you handle errors in JavaScript?
-</details>
-
-<details>
-<summary>JavaScript program Questions</summary>
+ 
+ ## JavaScript program Questions
 
 1. Program to find longest word in a given sentence ?
 2. How to check whether a string is palindrome or not ?
@@ -113,8 +115,7 @@ O/P: [{name: "sai"},{name:"Nang"}{name: "111111"}
 21. Write a function which converts string input into an object
 ("a.b.c", "someValue");
 {a: {b: {c: "someValue"}}}
-</details>
-
+ 
 </details>
 
 <details>
