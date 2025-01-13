@@ -20,20 +20,19 @@
 9. What are custom data attributes, and how are they used?
 10. How would you create an accessible custom tooltip using only HTML?
  
-
- 
-<details>
-
-<summary>JavaScript-Interview-Questions</summary>
-
- ## JavaScript Questions
+# JavaScript-Interview-Questions
   
- - 1. What is the difference between 'Pass by Value' and 'Pass by Reference'?
- - 2. What is the difference between map and filter ?
- - 3. What is the difference between map() and forEach() 
- - 4. What is the difference between Pure and Impure functions?
- - 5. What is the difference between for-in and for-of ?
- - 6. What are the differences between call(), apply() and bind() ?
+  * <a href="#JavaScript Questions">JavaScript Questions</a>
+  * <a href="#JavaScript program Questions">JavaScript program Questions</a>
+
+ # JavaScript Questions
+  
+1. What is the difference between 'Pass by Value' and 'Pass by Reference'?
+2. What is the difference between map and filter ?
+3. What is the difference between map() and forEach() 
+4. What is the difference between Pure and Impure functions?
+5. What is the difference between for-in and for-of ?
+6. What are the differences between call(), apply() and bind() ?
 7. List out some key features of ES6 ?
 8. What’s the spread operator in javascript ?
 9. What is rest operator in javascript ?
@@ -87,7 +86,7 @@
 58. How does prototypal inheritance work?
 59. How do you handle errors in JavaScript?
  
- ## JavaScript program Questions
+ # JavaScript program Questions
 
 1. Program to find longest word in a given sentence ?
 2. How to check whether a string is palindrome or not ?
@@ -115,16 +114,11 @@ O/P: [{name: "sai"},{name:"Nang"}{name: "111111"}
 21. Write a function which converts string input into an object
 ("a.b.c", "someValue");
 {a: {b: {c: "someValue"}}}
- 
-</details>
+  
+# Accessibility(A11Y)-Interview-Questions
+  
 
-<details>
-
-<summary>Accessibility(A11Y)-Interview-Questions
-</summary>
- 
-
- 1. What is ARIA, and why is it important?
+1. What is ARIA, and why is it important?
 2. How would you ensure a form is accessible?
 3. What are some common accessibility issues in web development?
 4. How do you make images accessible?
@@ -133,11 +127,8 @@ O/P: [{name: "sai"},{name:"Nang"}{name: "111111"}
 7. What is the difference between `role="button"` and a `<button>` element?
 8. How do you test a webpage for accessibility?
 
-</details>
-
-<details>
-
-<summary>ReactJS-Interview-Questions</summary>
+ 
+ # ReactJS-Interview-Questions
 
 1. What is the virtual DOM, and how does it work?
 2. How do React functional components differ from class components?
@@ -149,11 +140,6 @@ O/P: [{name: "sai"},{name:"Nang"}{name: "111111"}
 8. How do you optimize a React application’s performance?
 9. What are React portals, and how are they useful?
 10. How would you implement a custom hook to debounce user input in a React application? 
+ 
 
-</details>
-
-<details>
-
-<summary>ReduxToolKit-Interview-Questions</summary>
-
-</details>
+ # ReduxToolKit-Interview-Questions
