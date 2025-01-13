@@ -21,8 +21,9 @@
 
 <summary>JavaScript-Interview-Questions</summary>
 
-## Questions
- 
+<details>
+<summary>JavaScript Questions</summary>
+  
 1. What is the difference between 'Pass by Value' and 'Pass by Reference'?
 2. What is the difference between map and filter ?
 3. What is the difference between map() and forEach() 
@@ -81,9 +82,10 @@
 57. How would you implement a deep clone of an object without using libraries?
 58. How does prototypal inheritance work?
 59. How do you handle errors in JavaScript?
+</details>
 
-
-## programs in javascript 
+<details>
+<summary>JavaScript program Questions</summary>
 
 1. Program to find longest word in a given sentence ?
 2. How to check whether a string is palindrome or not ?
@@ -111,8 +113,7 @@ O/P: [{name: "sai"},{name:"Nang"}{name: "111111"}
 21. Write a function which converts string input into an object
 ("a.b.c", "someValue");
 {a: {b: {c: "someValue"}}}
-
- 
+</details>
 
 </details>
 
