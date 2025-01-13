@@ -2,7 +2,7 @@
 
 1. <a href="#HTML-Interview-Questions">HTML-Interview-Questions</a>
 2. <a href="#JavaScript-Interview-Questions">JavaScript-Interview-Questions</a>
-3. <a href="#Accessibility(A11Y)-Interview-Questions">Accessibility(A11Y)-Interview-Questions</a>
+3. <a href="#Accessibility-Interview-Questions">Accessibility-Interview-Questions</a>
 4. <a href="#ReactJS-Interview-Questions">ReactJS-Interview-Questions</a>
 5. <a href="#ReduxToolKit-Interview-Questions">ReduxToolKit-Interview-Questions</a>
 
@@ -25,7 +25,7 @@
   * <a href="#JavaScript Questions">JavaScript Questions</a>
   * <a href="#JavaScript program Questions">JavaScript program Questions</a>
 
- # JavaScript Questions
+ ## JavaScript Questions
   
 1. What is the difference between 'Pass by Value' and 'Pass by Reference'?
 2. What is the difference between map and filter ?
@@ -86,7 +86,7 @@
 58. How does prototypal inheritance work?
 59. How do you handle errors in JavaScript?
  
- # JavaScript program Questions
+ ## JavaScript program Questions
 
 1. Program to find longest word in a given sentence ?
 2. How to check whether a string is palindrome or not ?
@@ -115,7 +115,7 @@ O/P: [{name: "sai"},{name:"Nang"}{name: "111111"}
 ("a.b.c", "someValue");
 {a: {b: {c: "someValue"}}}
   
-# Accessibility(A11Y)-Interview-Questions
+# Accessibility-Interview-Questions
   
 
 1. What is ARIA, and why is it important?
